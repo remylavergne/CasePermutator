@@ -2,7 +2,7 @@ words = []
 
 
 def calculate_possibilities(word):
-    print(f'Possibilities for "{word}" : {pow(len(word), 2)}')
+    print(f'Possibilities for "{word}" : {2, pow(len(word))}')
 
 
 def all_casings(input_string):
